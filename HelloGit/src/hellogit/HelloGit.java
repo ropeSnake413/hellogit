@@ -4,6 +4,8 @@ public class HelloGit {
 
 	public static void main(String[] args) {
 		System.out.println("Citrus Squad FTW");
+		System.out.println("what is this");
+		System.out.println("hello");
 	}
 
 }
