@@ -7,6 +7,8 @@ public class HelloGit {
 		System.out.println("what is this");
 		System.out.println("hello");
 		System.out.println("he-hewwo?");
+		int x=3;
+		System.out.println(x);
 	}
 
 }
